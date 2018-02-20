@@ -1,0 +1,16 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 20.02.2018 18:33:26
+
+newmtl bubble
+	Ns 41.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.964706 0.741176 0.262745
+	Kd 0.964706 0.741176 0.262745
+	Ks 0.580000 0.580000 0.580000
+	Ke 0.000000 0.000000 0.000000
+	map_Ke Map__12_Mask.tga
+	map_refl Map__15_Mask.tga
